@@ -15,7 +15,7 @@ A modern and responsive personal portfolio website built using HTML, CSS, and Ja
 - 📧 Contact Form
 - 🔗 Social Media Links
 - ⬆️ Scroll To Top Button
-- ⚡ GitHub Repository Integration
+- ⚡ GitHub API Integration
 
 🛠️ Tech Stack
 
