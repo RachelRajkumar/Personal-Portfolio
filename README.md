@@ -1,21 +1,26 @@
-🌐 Personal Portfolio
+🚀 Rachel Rajkumar Portfolio
 
-Welcome to my personal portfolio website! 🚀
-
-This portfolio showcases my skills, projects, education, and journey as a Computer Science and Engineering student passionate about software development.
+A modern and responsive personal portfolio website built using HTML, CSS, and JavaScript. This portfolio showcases my skills, projects, education, and passion for web development.
 
 ✨ Features
 
-🎨 Modern and Responsive Design
-👨‍💻 About Me Section
-🛠️ Skills Showcase
-📂 Projects Section
-🎓 Education Details
-📞 Contact Information
-🌙 Clean and User-Friendly Interface
+- 🌌 Interactive Particle Background
+- 🎨 Modern UI Design
+- 📱 Fully Responsive Layout
+- ✨ Smooth Scroll Animations
+- 👤 About Me Section
+- 💻 Skills Showcase
+- 📂 Dynamic Projects Section
+- 🔍 Project Filtering
+- 📧 Contact Form
+- 🔗 Social Media Links
+- ⬆️ Scroll To Top Button
+- ⚡ GitHub Repository Integration
 
-🛠️ Built With
+🛠️ Tech Stack
 
-🌐 HTML5
-🎨 CSS3
-⚡ JavaScript
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Font Awesome
+- GitHub API
