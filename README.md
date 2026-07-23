@@ -9,6 +9,7 @@ A premium, futuristic, and responsive developer portfolio built with React.js, V
 - **Contact Form**: Integrated with EmailJS for direct email communication without a backend.
 - **Responsive**: Fully responsive design for mobile, tablet, and desktop devices.
 
+<<<<<<< HEAD
 ## Tech Stack
 - Frontend: React.js (Vite), JavaScript ES6+
 - Styling: Tailwind CSS (v4)
@@ -16,6 +17,20 @@ A premium, futuristic, and responsive developer portfolio built with React.js, V
 - API Calls: Axios (GitHub API)
 - Icons: React Icons
 - Deployment: Vercel-ready
+=======
+- 🌌 Interactive Particle Background
+- 🎨 Modern UI Design
+- 📱 Fully Responsive Layout
+- ✨ Smooth Scroll Animations
+- 👤 About Me Section
+- 💻 Skills Showcase
+- 📂 Dynamic Projects Section
+- 🔍 Project Filtering
+- 📧 Contact Form
+- 🔗 Social Media Links
+- ⬆️ Scroll To Top Button
+- ⚡ GitHub API Integration
+>>>>>>> 36a5f353b4ffdd528ee585fe017b93d9de3e25a6
 
 ## Local Development
 
